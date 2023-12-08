@@ -26,7 +26,6 @@ if(arr[i].compareTo(arr[j])>0)
 {
 String temp=arr[i];
 arr[i]=arr[j];
-P Rohith Kumar
 arr[j]=temp;
 }
 }
